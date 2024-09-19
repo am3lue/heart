@@ -54,4 +54,4 @@ Blue Francis
 
 I would like to acknowledge some few friends for challenging me to do this:
 
-- **Avicti** availiable on [**github**](https://github.com/avicti18)
+- **Avicti** availiable on [**github**](https://github.com/avict18/)
