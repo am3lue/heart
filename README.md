@@ -1,7 +1,7 @@
 <p align="center"> 
   <img src="Assets/logo.png" alt="heart logo" width="80px" height="80px">
 </p>
-<h1 align="center"> PY-HEART </h1>
+<h1 align="center"> PY . HEART </h1>
 
 <p align="center"> 
   <img src="Assets/screenshot.gif" alt="heart logo" >
@@ -44,14 +44,14 @@
 <!-- CREDITS -->
 <h2 id="credits">Credits</h2>
 
-Aaron Victor
+Blue Francis
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avict18)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avict18)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/am3lue)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/am3lue)
 
 
 ## Acknowledgements:
 
 I would like to acknowledge some few friends for challenging me to do this:
 
-- **Brown Mafuru** availiable on [**github**](https://github.com/nelacommunity)
+- **Avicti** availiable on [**github**](https://github.com/avicti18)
