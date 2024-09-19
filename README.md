@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="Assets/logo.png" alt="heart logo" width="80px" height="80px">
+  <img src="Assets/Heart.png" alt="heart logo" width="80px" height="80px">
 </p>
 <h1 align="center"> PY . HEART </h1>
 
