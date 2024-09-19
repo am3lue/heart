@@ -31,7 +31,7 @@
 <h2 id="getting-started">Getting Started</h2>
 
 <p>Clone the repository</p>
-<pre><code>$ git clone https://github.com/avict18/pyheart</code></pre>
+<pre><code>$ git clone https://github.com/am3lue/heart</code></pre>
 
 <p>change directory into the project folder</p>
 <pre><code>$ cd pyheart</code></pre>
